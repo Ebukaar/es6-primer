@@ -1,0 +1,20 @@
+{
+  "name": "es6-primer",
+  "version": "1.0.0",
+  "description": "Javascript and Version Control Primer in NodeJS Environment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ebukaar/es6-primer.git"
+  },
+  "author": "Ebuka Adigwe",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Ebukaar/es6-primer/issues"
+  },
+  "homepage": "https://github.com/Ebukaar/es6-primer#readme",
+  "type": "module"
+}
