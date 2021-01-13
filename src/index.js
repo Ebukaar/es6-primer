@@ -45,7 +45,7 @@ log(`The username of ${user1.firstName} is ${user1.username}`)
 /**Async/Await */
 //This has a lot to do in asynchronious synchronization 
 
-
+//index.js
 
 
 
