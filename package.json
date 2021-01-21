@@ -16,5 +16,8 @@
     "url": "https://github.com/Ebukaar/es6-primer/issues"
   },
   "homepage": "https://github.com/Ebukaar/es6-primer#readme",
-  "type": "module"
+  "type": "module",
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  }
 }
